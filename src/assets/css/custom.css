@@ -10,9 +10,9 @@ abbr[title] {
   margin-top: 4rem;
 }
 
-.usa-link-medium {
+/* .usa-link-medium {
   background-image: url('/assets/images/medium.png');
-}
+} */
 
 .usa-link-github {
   background-image: url('/assets/images/github.png');
@@ -68,4 +68,13 @@ abbr[title] {
 
 .honeybucket {
   display: none;
+}
+
+.tiny {
+  font-size: 9px;
+}
+
+.tiny-bold {
+  font-size: 9px;
+  font-weight: bold;
 }
